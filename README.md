@@ -27,3 +27,17 @@ const {data} = await api.get('episodes',{
   }
 })
 ```
+### Explicação do SSG diferenças entre os fallback(blocking,true e false) - 10minuto - 
+```
+fallback: 'blocking'
+```
+Ideal para SEO
+
+### Exemplo de SSG otimizado para os mais acessados 20:00
+
+### Dicas finais
+- PWA (next-pwa)
+- Mobile layout
+- Tema dark
+- Electron
+- 
